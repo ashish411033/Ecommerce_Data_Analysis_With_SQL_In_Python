@@ -13,6 +13,13 @@ The analysis uses multiple CSV datasets mimicking a real-world e-commerce platfo
 
 SQL queries are written and executed using Python (e.g., SQLite or pandasql), allowing efficient data filtering, joining, aggregation, and visualization.
 
+## 📂 Dataset Download
+
+You can download the full dataset (40MB) here:
+
+👉 [Download from Google Drive]- https://drive.google.com/drive/folders/1flpaoF498jLSzHgPt7fXR99sYx45ofdj?usp=drive_link
+
+
 
 ## 🧠 Key Features
 - ✅ SQL queries run directly in Python via libraries like `sqlite3` or `pandasql`  
